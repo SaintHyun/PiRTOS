@@ -281,5 +281,6 @@ typedef struct PL011_t
 
 void Uart_init(void);
 void Uart_put_char(uint8_t ch);
+uint8_t Uart_get_char(void);
 
 #endif /* UART_H_ */
