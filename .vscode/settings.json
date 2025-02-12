@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "stdint.h": "c",
+        "uart.h": "c",
+        "interrupt.h": "c",
+        "time.h": "c",
+        "compare": "c"
+    }
+}
